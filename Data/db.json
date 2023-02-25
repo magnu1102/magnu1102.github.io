@@ -1,0 +1,44 @@
+{
+    "posts": [
+      {
+        "id": "1",
+        "name": "AlpacaNorth",
+        "leader": "Chewpaca",
+        "img": "https://cdn.pixabay.com/photo/2019/06/24/10/42/alpaca-4295702_960_720.jpg",
+        "color": "#edb879"
+      },
+      {
+        "id": "2",
+        "name": "AlpacaEast",
+        "leader": "Betsy",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQAWoLZpHFCADozs4_TEvQwAXwEURTgakqV-9auJ_klHJcF1Wrxg&s",
+        "color": "#e5c3d1"
+      },
+      {
+        "id": "3",
+        "name": "AlpacaSouth",
+        "leader": "Lulu",
+        "img": "https://cdn.pixabay.com/photo/2020/04/26/19/19/alpaca-5096789_960_720.jpg",
+        "color": "#d6d1b1"
+      },
+      {
+        "id": "4",
+        "name": "AlpacaWest",
+        "leader": "Alpaccino",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_1yLt7BIszwuDrY55U_9gSL96cGqrnZdXJ5NQYv7vRWPJ0DguzA&s",
+        "color": "#b0c0bc"
+      }
+  
+  
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
